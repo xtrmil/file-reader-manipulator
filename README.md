@@ -13,9 +13,9 @@ Run the precompiled .jar file to excecute the application. A logfolder will be c
 
 ![Alt text](https://github.com/xtrmil/file-reader-manipulator/blob/master/screenshots/javac.JPG?raw=true)
 
-![Alt text](https://github.com/xtrmil/file-reader-manipulator/blob/master/screenshots/jar_cfe.jpg?raw=true "jar cfe")
+![Alt text](https://github.com/xtrmil/file-reader-manipulator/blob/master/screenshots/jar_cfe.jpg?raw=true)
 
-![Alt text](https://github.com/xtrmil/file-reader-manipulator/blob/master/screenshots/java_-jar.jpg?raw=true "java -jar")
+![Alt text](/screenshots/java_-jar.jpg?raw=true)
 
 
 
