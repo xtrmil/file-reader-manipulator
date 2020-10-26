@@ -8,14 +8,12 @@ A logging function is included in the functionality whichs writes the output fro
 
 Run the precompiled .jar file to excecute the application. A logfolder will be created on startup in current directory.
 
-## Compilation
 
+![Alt text](/screenshots/javac.JPG?raw=true)
 
-![Alt text](https://github.com/xtrmil/file-reader-manipulator/blob/master/screenshots/javac.JPG?raw=true)
+![Alt text](/screenshots/java_-jar.JPG?raw=true?raw=true)
 
-![Alt text](https://github.com/xtrmil/file-reader-manipulator/blob/master/screenshots/jar_cfe.jpg?raw=true)
-
-![Alt text](https://github.com/xtrmil/file-reader-manipulator/blob/master/screenshots/screenshots/java_-jar.jpg?raw=true)
+![Alt text](/screenshots/screenshots/java_-jar.JPG?raw=true)
 
 
 
