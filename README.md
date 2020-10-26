@@ -10,7 +10,7 @@ Run the precompiled .jar file to excecute the application. A logfolder will be c
 
 ## Compilation
 
-![Alt text](screenshots/javac.jpg?raw=true "javac")
+![Alt text]!(screenshots/javac.jpg)
 
 ![Alt text](screenshots/jar_cfe.jpg?raw=true "jar cfe")
 
