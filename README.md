@@ -14,9 +14,9 @@ Run the precompiled .jar file to excecute the application. A logfolder will be c
 
 ![javac](screenshots/javac.jpg)
 
-![Alt text](screenshots/jar_cfe.jpg?raw=true "jar cfe")
+![Alt text](/screenshots/jar_cfe.jpg?raw=true "jar cfe")
 
-![Alt text](screenshots/java_-jar.jpg?raw=true "java -jar")
+![Alt text](/screenshots/java_-jar.jpg?raw=true "java -jar")
 
 
 
