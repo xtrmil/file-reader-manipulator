@@ -13,7 +13,8 @@ Run the precompiled .jar file to excecute the application. A logfolder will be c
 
 ![Alt text](/screenshots/java_-jar.JPG?raw=true?raw=true)
 
-![Alt text](/screenshots/screenshots/java_-jar.JPG?raw=true)
+![Alt text](/screenshots/jar_cfe.JPG?raw=true)
+
 
 
 
